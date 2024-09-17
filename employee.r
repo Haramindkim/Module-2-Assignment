@@ -1,8 +1,8 @@
 # Specify the path to the zip file
-zip_file <- "Employee_Profile.zip"
+zip_file <- "Employee Profile.zip"
 
 # Specify the directory where you want to extract the files
-extract_to <- "Employee_Profile"
+extract_to <- "Employee Profile"
 
 # If the directory does not exist, create it
 if (!file.exists(extract_to)) {
